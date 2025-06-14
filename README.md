@@ -50,13 +50,6 @@ This project aims to forecast traffic volume using advanced deep learning models
 - Model Evaluation (MAE, RMSE)
 - Visualization (Matplotlib, Bar Chart)
 
----
-
-## 🔗 Demo / Presentation
-
-[Optional: Add Colab link, YouTube presentation, or project PDF/report here]
-
----
 
 ## 👩‍💻 Author
 
